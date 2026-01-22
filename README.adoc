@@ -1,9 +1,9 @@
-// SPDX-License-Identifier: MIT OR AGPL-3.0-or-later
+// SPDX-License-Identifier: MIT OR PMPL-1.0-or-later
 // SPDX-FileCopyrightText: 2024-2025 hyperpolymath
 
 = Kea Wit
 
-image:https://img.shields.io/badge/license-AGPL--3.0-blue.svg[AGPL-3.0,link="https://www.gnu.org/licenses/agpl-3.0"] image:https://img.shields.io/badge/philosophy-Palimpsest-purple.svg[Palimpsest,link="https://github.com/hyperpolymath/palimpsest-licence"]
+image:https://img.shields.io/badge/license-AGPL--3.0-blue.svg[PMPL-1.0,link="https://github.com/hyperpolymath/palimpsest-license"] image:https://img.shields.io/badge/philosophy-Palimpsest-purple.svg[Palimpsest,link="https://github.com/hyperpolymath/palimpsest-licence"]
 :toc: auto
 :toclevels: 3
 :icons: font
@@ -63,7 +63,7 @@ kea-wit/
 ├── .github/               # GitHub workflows and templates
 ├── CODE_OF_CONDUCT.md     # Community guidelines (template)
 ├── CONTRIBUTING.md        # Contribution guide (template)
-├── LICENSE.txt            # MIT OR AGPL-3.0-or-later
+├── LICENSE.txt            # MIT OR PMPL-1.0-or-later
 ├── README.adoc            # This file
 ├── ROADMAP.adoc           # Development roadmap
 └── SECURITY.md            # Security policy
@@ -71,7 +71,7 @@ kea-wit/
 
 == License
 
-Dual-licensed under link:LICENSE.txt[MIT OR AGPL-3.0-or-later].
+Dual-licensed under link:LICENSE.txt[MIT OR PMPL-1.0-or-later].
 
 Includes non-binding encouragement of https://github.com/hyperpolymath/palimpsest-license[Palimpsest License] principles for consent-based digital interaction.
 
